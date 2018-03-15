@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27130.2036
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Quote", "Quote\Quote.csproj", "{51886902-A7E0-42B4-BAB4-DA0E1C99F348}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Quoting", "Quote\Quoting.csproj", "{51886902-A7E0-42B4-BAB4-DA0E1C99F348}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Quote.Tests", "Quote.Tests\Quote.Tests.csproj", "{203315C9-BC4A-47A2-9D1F-8EE0BA54C148}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Quoting.Tests", "Quote.Tests\Quoting.Tests.csproj", "{203315C9-BC4A-47A2-9D1F-8EE0BA54C148}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
